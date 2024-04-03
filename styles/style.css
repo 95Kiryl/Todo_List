@@ -198,3 +198,25 @@
 .disable {
   background: rgba(218, 216, 199, 0);
 }
+
+@media (max-width: 520px) {
+  .todo__list__wrapper {
+    width: 100%;
+  }
+
+  .todo__list {
+    flex-wrap: wrap;
+  }
+
+  .todo__list__items {
+    top: 100px;
+  }
+
+  .todo {
+    width: 80%;
+  }
+
+  .newTask__content {
+    width: 70%;
+  }
+}
