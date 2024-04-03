@@ -201,7 +201,7 @@
 
 @media (max-width: 520px) {
   .todo__list__wrapper {
-    width: 100%;
+    width: 95%;
   }
 
   .todo__list {
@@ -213,7 +213,7 @@
   }
 
   .todo {
-    width: 80%;
+    width: 93%;
   }
 
   .newTask__content {
